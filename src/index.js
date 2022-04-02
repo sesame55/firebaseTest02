@@ -1,5 +1,6 @@
 import ReactDom from 'react-dom'; //載入套件
 import App from './App'; //引入同資料夾下的基礎元件，可以不寫副檔名
+import './index.scss';
 
 import 'semantic-ui-css/semantic.css'; //載入 Header 樣式
 
